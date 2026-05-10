@@ -21,7 +21,7 @@ A Java-based Number Guessing Game project.
 3. Start guessing the number
 
 ## Demo Video
-[Watch Demo](PASTE_GOOGLE_DRIVE_LINK)
+https://drive.google.com/file/d/1i_69tUmHPq3d8lfso8MAmUH0vv4-URBJ/view?usp=drive_link
 
 ## Author
 Yash Malbhage
